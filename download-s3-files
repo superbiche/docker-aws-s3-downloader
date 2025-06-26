@@ -13,6 +13,7 @@ declare -a REGIONS=(
     "us-west-1"
     "us-west-2"
     "eu-central-1"
+    "fr-par"
 )
 
 declare -a HELP=("--help" "-h" "help")
